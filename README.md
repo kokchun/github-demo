@@ -17,4 +17,15 @@ Detta kommando skapar en branch som heter instructions och därefter flyttar oss
 git branch
 ```
 
+I denna branchen kan du committa som vanligt. För att pusha upp till remote (github) använder du 
+
+```md
+git push origin instructions
+```
+
+Du kan också kolla på olika branches i github och där se att en knapp dykt upp där det står "Compare & pull request". 
+
+
+
+
 
