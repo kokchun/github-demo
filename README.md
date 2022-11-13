@@ -29,6 +29,11 @@ Du kan också kolla på olika branches i github och där se att en knapp dykt up
 
 Klicka på compare & pull request i github. Här kan du se source diff och rich diff för varje fil för att se förändringar. Skapa därefter pull request med en kommentar.
 
-Alla collaborators ser en pull request i github och kan reviewa kod och diskutera koden. 
+Alla collaborators ser en pull request i github och kan reviewa kod och diskutera koden. I bilden nedan ser du hur det kan se ut vid en diskussion. Här simulerar kokchun två personer, men det skulle lika gärna kunna vara två olika collaborators. 
+
+<img src="assets/discussions_pull_request.png">
+
+
+Här nedan ser du om det går att mergea pull requesten. Kan även sätta upp regel för att en pull request ska bli accepterad. 
 
 <img src="assets/pull_request.png" width=400>
