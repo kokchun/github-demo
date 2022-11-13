@@ -31,9 +31,13 @@ Klicka på compare & pull request i github. Här kan du se source diff och rich 
 
 Alla collaborators ser en pull request i github och kan reviewa kod och diskutera koden. I bilden nedan ser du hur det kan se ut vid en diskussion. Här simulerar kokchun två personer, men det skulle lika gärna kunna vara två olika collaborators. 
 
-<img src="assets/discussions_pull_request.png">
+<img src="assets/discussions_pull_request.png width=400">
 
 
 Här nedan ser du om det går att mergea pull requesten. Kan även sätta upp regel för att en pull request ska bli accepterad. 
 
 <img src="assets/pull_request.png" width=400>
+
+## Merge 
+
+Efter merged pull request är det viktigt att varje person pull till main branch och pull till sin egna branch. 
