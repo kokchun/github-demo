@@ -44,8 +44,10 @@ Efter merged pull request är det viktigt att varje person pull till main branch
 
 Detta har jag lagt till från instructions-branch. 
 
-Vi tar en pull från main för att lösa eventuella konflikter i instructions branchen
+Vi tar en merge från main till instructionsbranch för att lösa eventuella konflikter i instructionsbranchen
 
 ```md
-git pull origin main
+git merge origin main
 ```
+
+Välj om du ska acceptera current change, both changes, incoming changes.
