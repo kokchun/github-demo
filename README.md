@@ -37,3 +37,7 @@ Alla collaborators ser en pull request i github och kan reviewa kod och diskuter
 Här nedan ser du om det går att mergea pull requesten. Kan även sätta upp regel för att en pull request ska bli accepterad. 
 
 <img src="assets/pull_request.png" width=400>
+
+## Merging 
+
+Det här har jag lagt till från branchen merge-instructions.
