@@ -41,3 +41,5 @@ Här nedan ser du om det går att mergea pull requesten. Kan även sätta upp re
 ## Merge 
 
 Efter merged pull request är det viktigt att varje person pull till main branch och pull till sin egna branch. 
+
+Detta har jag lagt till från instructions-branch. 
