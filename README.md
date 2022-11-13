@@ -25,7 +25,10 @@ git push origin instructions
 
 Du kan också kolla på olika branches i github och där se att en knapp dykt upp där det står "Compare & pull request". 
 
+## Pull request
 
+Klicka på compare & pull request i github. Här kan du se source diff och rich diff för varje fil för att se förändringar. Skapa därefter pull request med en kommentar.
 
+Alla collaborators ser en pull request i github och kan reviewa kod och diskutera koden. 
 
-
+<img src="assets/pull_request.png" width=400>
